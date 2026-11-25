@@ -1,0 +1,4794 @@
+{
+  "geografia": [
+    {
+      "question": "¿Cuál es la capital de Australia?",
+      "options": [
+        "Sídney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Canberra' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el río más largo del mundo?",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtsé",
+        "Misisipi"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Amazonas' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué país se encuentra la ciudad de Marrakech?",
+      "options": [
+        "Egipto",
+        "Marruecos",
+        "Argelia",
+        "Túnez"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Marruecos' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el país más grande del mundo por superficie?",
+      "options": [
+        "Canadá",
+        "China",
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Rusia' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué cordillera separa Europa de Asia?",
+      "options": [
+        "Los Andes",
+        "Los Alpes",
+        "Los Urales",
+        "El Himalaya"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Los Urales' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el océano más grande de la Tierra?",
+      "options": [
+        "Atlántico",
+        "Índico",
+        "Ártico",
+        "Pacífico"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Pacífico' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué continente se encuentra el desierto de Kalahari?",
+      "options": [
+        "Asia",
+        "África",
+        "Oceanía",
+        "América del Sur"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'África' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Ottawa' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué país tiene forma de bota?",
+      "options": [
+        "Grecia",
+        "España",
+        "Italia",
+        "Portugal"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Italia' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el monte más alto del mundo?",
+      "options": [
+        "K2",
+        "Everest",
+        "Aconcagua",
+        "Kilimanjaro"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Everest' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Japón?",
+      "options": [
+        "Kioto",
+        "Osaka",
+        "Tokio",
+        "Hiroshima"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Tokio' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué país se encuentra Machu Picchu?",
+      "options": [
+        "Bolivia",
+        "Colombia",
+        "Perú",
+        "Chile"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Perú' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el país más poblado del mundo?",
+      "options": [
+        "India",
+        "China",
+        "Estados Unidos",
+        "Indonesia"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'India' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué estrecho separa a España de Marruecos?",
+      "options": [
+        "Estrecho de Bering",
+        "Estrecho de Magallanes",
+        "Estrecho de Gibraltar",
+        "Canal de la Mancha"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Estrecho de Gibraltar' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el lago más profundo del mundo?",
+      "options": [
+        "Lago Superior",
+        "Lago Baikal",
+        "Lago Titicaca",
+        "Lago Victoria"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Lago Baikal' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Argentina?",
+      "options": [
+        "Córdoba",
+        "Buenos Aires",
+        "Rosario",
+        "Mendoza"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Buenos Aires' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué mar baña las costas de Líbano, Siria e Israel?",
+      "options": [
+        "Mar Rojo",
+        "Mar Caspio",
+        "Mar Mediterráneo",
+        "Mar Negro"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Mar Mediterráneo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué isla se encuentra la mayor parte de Indonesia?",
+      "options": [
+        "Sumatra",
+        "Java",
+        "Borneo y Java",
+        "Nueva Guinea"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Borneo y Java' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Islandia?",
+      "options": [
+        "Oslo",
+        "Helsinki",
+        "Reikiavik",
+        "Estocolmo"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Reikiavik' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué desierto cubre gran parte del norte de África?",
+      "options": [
+        "Atacama",
+        "Gobi",
+        "Sahara",
+        "Mojave"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Sahara' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el país con más islas en el mundo?",
+      "options": [
+        "Filipinas",
+        "Suecia",
+        "Indonesia",
+        "Japón"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Suecia' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Brasil?",
+      "options": [
+        "Río de Janeiro",
+        "São Paulo",
+        "Brasilia",
+        "Salvador de Bahía"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Brasilia' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué país europeo está cruzado por el meridiano de Greenwich?",
+      "options": [
+        "Alemania",
+        "España",
+        "Italia",
+        "Polonia"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'España' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el punto más bajo de la superficie terrestre continental?",
+      "options": [
+        "Mar Muerto",
+        "Valle de la Muerte",
+        "Depresión de Caspia",
+        "Lago Assal"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Mar Muerto' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Nueva Zelanda?",
+      "options": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Hamilton"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Wellington' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué canal artificial une el océano Atlántico con el Pacífico?",
+      "options": [
+        "Canal de Suez",
+        "Canal de Corinto",
+        "Canal de Panamá",
+        "Canal de Kiel"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Canal de Panamá' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué país se encuentra la región de la Patagonia?",
+      "options": [
+        "Argentina y Chile",
+        "Solo Chile",
+        "Solo Argentina",
+        "Brasil y Uruguay"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Argentina y Chile' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Sudáfrica (administrativa)?",
+      "options": [
+        "Johannesburgo",
+        "Ciudad del Cabo",
+        "Pretoria",
+        "Durban"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Pretoria' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué país tiene la mayor cantidad de volcanes activos?",
+      "options": [
+        "Japón",
+        "Indonesia",
+        "Chile",
+        "Estados Unidos"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Indonesia' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el país más pequeño del mundo?",
+      "options": [
+        "Mónaco",
+        "San Marino",
+        "Ciudad del Vaticano",
+        "Liechtenstein"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Ciudad del Vaticano' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Colombia?",
+      "options": [
+        "Medellín",
+        "Cali",
+        "Bogotá",
+        "Cartagena"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Bogotá' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué península europea incluye a Noruega y Suecia?",
+      "options": [
+        "Península Ibérica",
+        "Península Itálica",
+        "Península Escandinava",
+        "Península de los Balcanes"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Península Escandinava' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el río que atraviesa París?",
+      "options": [
+        "Támesis",
+        "Rin",
+        "Sena",
+        "Danubio"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Sena' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué país se encuentra el Salto Ángel, la cascada más alta del mundo?",
+      "options": [
+        "Brasil",
+        "Venezuela",
+        "Guyana",
+        "Colombia"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Venezuela' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Corea del Sur?",
+      "options": [
+        "Busan",
+        "Incheon",
+        "Seúl",
+        "Daegu"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Seúl' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué isla es la más grande del mundo?",
+      "options": [
+        "Madagascar",
+        "Groenlandia",
+        "Nueva Guinea",
+        "Borneo"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Groenlandia' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de México?",
+      "options": [
+        "Guadalajara",
+        "Monterrey",
+        "Ciudad de México",
+        "Puebla"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Ciudad de México' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué país atraviesa el río Amazonas en su mayor parte?",
+      "options": [
+        "Perú",
+        "Colombia",
+        "Brasil",
+        "Bolivia"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Brasil' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de India?",
+      "options": [
+        "Bombay",
+        "Nueva Delhi",
+        "Calcuta",
+        "Bangalore"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Nueva Delhi' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué cordillera recorre la costa oeste de América del Sur?",
+      "options": [
+        "Montañas Rocosas",
+        "Los Andes",
+        "Los Alpes",
+        "Gran Cordillera Divisoria"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Los Andes' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Egipto?",
+      "options": [
+        "Alejandría",
+        "Luxor",
+        "El Cairo",
+        "Asuán"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'El Cairo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué mar desemboca el río Danubio?",
+      "options": [
+        "Mar Báltico",
+        "Mar Negro",
+        "Mar del Norte",
+        "Mar Adriático"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Mar Negro' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Tailandia?",
+      "options": [
+        "Chiang Mai",
+        "Phuket",
+        "Bangkok",
+        "Pattaya"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Bangkok' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué país limita al norte con España?",
+      "options": [
+        "Portugal",
+        "Francia",
+        "Italia",
+        "Suiza"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Francia' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Grecia?",
+      "options": [
+        "Tesalónica",
+        "Atenas",
+        "Patras",
+        "Heraclión"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Atenas' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué desierto se encuentra en el norte de Chile?",
+      "options": [
+        "Sahara",
+        "Atacama",
+        "Kalahari",
+        "Gobi"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Atacama' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Vietnam?",
+      "options": [
+        "Ciudad Ho Chi Minh",
+        "Hanói",
+        "Da Nang",
+        "Hue"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Hanói' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué estado de EE. UU. es un archipiélago en el océano Pacífico?",
+      "options": [
+        "Alaska",
+        "California",
+        "Hawái",
+        "Florida"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Hawái' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la capital de Portugal?",
+      "options": [
+        "Oporto",
+        "Coímbra",
+        "Lisboa",
+        "Faro"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Lisboa' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el país con mayor extensión de costas en el mundo?",
+      "options": [
+        "Australia",
+        "Rusia",
+        "Canadá",
+        "Indonesia"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Canadá' por definición y datos contrastados."
+    }
+  ],
+  "arte": [
+    {
+      "question": "¿Quién pintó 'La Mona Lisa'?",
+      "options": [
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Claude Monet"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Leonardo da Vinci' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué museo se encuentra 'La Gioconda'?",
+      "options": [
+        "Museo del Prado",
+        "The Met",
+        "Louvre",
+        "Uffizi"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Louvre' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién esculpió el famoso 'David' de mármol en Florencia?",
+      "options": [
+        "Donatello",
+        "Miguel Ángel",
+        "Rafael",
+        "Bernini"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Miguel Ángel' por definición y datos contrastados."
+    },
+    {
+      "question": "¿A qué movimiento artístico pertenece Salvador Dalí?",
+      "options": [
+        "Impresionismo",
+        "Cubismo",
+        "Surrealismo",
+        "Barroco"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Surrealismo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién pintó 'La noche estrellada'?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Edvard Munch",
+        "Paul Gauguin"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Vincent van Gogh' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué artista es conocido por fundar el cubismo junto con Georges Braque?",
+      "options": [
+        "Henri Matisse",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Marc Chagall"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Pablo Picasso' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién pintó 'Guernica'?",
+      "options": [
+        "Salvador Dalí",
+        "Diego Velázquez",
+        "Pablo Picasso",
+        "Francisco de Goya"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Pablo Picasso' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál de las siguientes obras pertenece a Leonardo da Vinci además de La Mona Lisa?",
+      "options": [
+        "La última cena",
+        "Las meninas",
+        "La persistencia de la memoria",
+        "El grito"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'La última cena' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién pintó 'Las meninas'?",
+      "options": [
+        "El Greco",
+        "Diego Velázquez",
+        "Francisco de Goya",
+        "Bartolomé Esteban Murillo"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Diego Velázquez' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué pintor noruego es el autor de 'El grito'?",
+      "options": [
+        "Edvard Munch",
+        "Gustav Klimt",
+        "Egon Schiele",
+        "August Macke"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Edvard Munch' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién pintó el techo de la Capilla Sixtina?",
+      "options": [
+        "Rafael Sanzio",
+        "Miguel Ángel",
+        "Leonardo da Vinci",
+        "Caravaggio"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Miguel Ángel' por definición y datos contrastados."
+    },
+    {
+      "question": "¿A qué corriente artística pertenece Claude Monet?",
+      "options": [
+        "Impresionismo",
+        "Renacimiento",
+        "Barroco",
+        "Realismo"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Impresionismo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién es el autor de la escultura 'El pensador'?",
+      "options": [
+        "Auguste Rodin",
+        "Michelangelo",
+        "Gian Lorenzo Bernini",
+        "Antonio Canova"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Auguste Rodin' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué ciudad se encuentra el Museo del Prado?",
+      "options": [
+        "Barcelona",
+        "Madrid",
+        "Sevilla",
+        "Valencia"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Madrid' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién pintó 'La creación de Adán'?",
+      "options": [
+        "Rafael",
+        "Tiziano",
+        "Miguel Ángel",
+        "Botticelli"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Miguel Ángel' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué pintor holandés es famoso por 'La joven de la perla'?",
+      "options": [
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Frans Hals",
+        "Jan van Eyck"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Johannes Vermeer' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién pintó 'El nacimiento de Venus'?",
+      "options": [
+        "Sandro Botticelli",
+        "Caravaggio",
+        "Giotto",
+        "Tintoretto"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Sandro Botticelli' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué artista encabeza el movimiento Pop Art con sus latas de sopa Campbell?",
+      "options": [
+        "Roy Lichtenstein",
+        "Andy Warhol",
+        "Keith Haring",
+        "Jackson Pollock"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Andy Warhol' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién es el arquitecto principal de la Sagrada Familia en Barcelona?",
+      "options": [
+        "Santiago Calatrava",
+        "Antoni Gaudí",
+        "Lluís Domènech",
+        "Josep Puig"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Antoni Gaudí' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué pintor mexicano es famoso por sus murales y estar casado con Frida Kahlo?",
+      "options": [
+        "David Alfaro Siqueiros",
+        "José Clemente Orozco",
+        "Diego Rivera",
+        "Rufino Tamayo"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Diego Rivera' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la técnica pictórica que utiliza pigmentos aglutinados con cera caliente?",
+      "options": [
+        "Fresco",
+        "Óleo",
+        "Encaústica",
+        "Tempera"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Encaústica' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién pintó 'Los fusilamientos del 3 de mayo'?",
+      "options": [
+        "Francisco de Goya",
+        "Diego Velázquez",
+        "Joaquín Sorolla",
+        "Mariano Fortuny"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Francisco de Goya' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué estilo arquitectónico se caracteriza por arcos apuntados y grandes vidrieras (ej. Catedral de Notre Dame)?",
+      "options": [
+        "Románico",
+        "Gótico",
+        "Neoclásico",
+        "Bizantino"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Gótico' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién pintó 'El jardín de las delicias'?",
+      "options": [
+        "El Bosco",
+        "Pieter Bruegel",
+        "Jan van Eyck",
+        "Rogier van der Weyden"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'El Bosco' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué artista pintó 'American Gothic'?",
+      "options": [
+        "Edward Hopper",
+        "Grant Wood",
+        "Norman Rockwell",
+        "Georgia O'Keeffe"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Grant Wood' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál de los siguientes pintores pertenece al Renacimiento italiano?",
+      "options": [
+        "Claude Monet",
+        "Caravaggio",
+        "Rafael Sanzio",
+        "Pablo Picasso"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Rafael Sanzio' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué escultor barroco creó el Éxtasis de Santa Teresa y la fuente de la Plaza Navona?",
+      "options": [
+        "Bernini",
+        "Borromini",
+        "Donatello",
+        "Cellini"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Bernini' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién pintó 'La persistencia de la memoria' (los relojes blandos)?",
+      "options": [
+        "René Magritte",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Max Ernst"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Salvador Dalí' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué pintora mexicana es mundialmente conocida por sus autorretratos y un estilo inspirado en el folclore mexicano?",
+      "options": [
+        "Remedios Varo",
+        "Leonora Carrington",
+        "Frida Kahlo",
+        "María Izquierdo"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Frida Kahlo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué museo famoso está ubicado en Bilbao, España, diseñado por Frank Gehry?",
+      "options": [
+        "Museo Reina Sofía",
+        "Museo Guggenheim",
+        "Museo Thyssen",
+        "Centre Pompidou"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Museo Guggenheim' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién es el autor de 'El pensador' y 'El beso' en escultura?",
+      "options": [
+        "Auguste Rodin",
+        "Camille Claudel",
+        "Aristide Maillol",
+        "Constantin Brancusi"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Auguste Rodin' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué pintor español es famoso por sus escenas de playa y luz mediterránea?",
+      "options": [
+        "Ignacio Zuloaga",
+        "Joaquín Sorolla",
+        "Santiago Rusiñol",
+        "Ramón Casas"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Joaquín Sorolla' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién pintó los famosos Nenúfares (Nymphéas)?",
+      "options": [
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Edgar Degas",
+        "Camille Pissarro"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Claude Monet' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué artista es conocido por sus pinturas de flores gigantes y paisajes del suroeste de EE. UU.?",
+      "options": [
+        "Mary Cassatt",
+        "Georgia O'Keeffe",
+        "Tamara de Lempicka",
+        "Helen Frankenthaler"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Georgia O'Keeffe' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el nombre del famoso cuadro de Edvard Munch donde una figura grita bajo un cielo rojo?",
+      "options": [
+        "La angustia",
+        "El grito",
+        "La desesperación",
+        "El vampiro"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'El grito' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué arquitecto diseñó la Casa de la Cascada (Fallingwater)?",
+      "options": [
+        "Le Corbusier",
+        "Frank Lloyd Wright",
+        "Mies van der Rohe",
+        "Walter Gropius"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Frank Lloyd Wright' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué técnica artística consiste en recortar imágenes y pegarlas sobre un soporte formando una composición?",
+      "options": [
+        "Collage",
+        "Frotage",
+        "Grabado",
+        "Decalcomanía"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Collage' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién pintó 'La ronda de noche'?",
+      "options": [
+        "Vermeer",
+        "Rembrandt",
+        "Frans Hals",
+        "Rubens"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Rembrandt' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué pintor austriaco creó la famosa obra 'El beso' decorada con hojas de oro?",
+      "options": [
+        "Egon Schiele",
+        "Gustav Klimt",
+        "Oskar Kokoschka",
+        "Hans Makart"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Gustav Klimt' por definición y datos contrastados."
+    },
+    {
+      "question": "¿A qué movimiento vanguardista pertenece el cuadro 'La traición de las imágenes' (Esto no es una pipa) de Magritte?",
+      "options": [
+        "Dadaísmo",
+        "Surrealismo",
+        "Futurismo",
+        "Constructivismo"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Surrealismo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién diseñó la Torre Eiffel para la Exposición Universal de 1889 en París?",
+      "options": [
+        "Gustave Eiffel",
+        "Haussmann",
+        "Bartholdi",
+        "Viollet-le-Duc"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Gustave Eiffel' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué pintor es considerado el máximo exponente del fauvismo?",
+      "options": [
+        "Henri Matisse",
+        "Georges Braque",
+        "André Derain",
+        "Maurice de Vlaminck"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Henri Matisse' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién esculpió 'El rapto de las sabinas' en mármol?",
+      "options": [
+        "Gian Lorenzo Bernini",
+        "Giambologna",
+        "Benvenuto Cellini",
+        "Donatello"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Giambologna' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué pintor colombiano es mundialmente famoso por sus figuras y objetos de volumen exagerado y generoso?",
+      "options": [
+        "Alejandro Obregón",
+        "Fernando Botero",
+        "Carlos Cruz-Diez",
+        "Jesús Soto"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Fernando Botero' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál de las siguientes obras es del pintor español Joan Miró?",
+      "options": [
+        "El carnaval del arlequín",
+        "Muchacha en la ventana",
+        "La persistencia de la memoria",
+        "Construcción blanda con judías hervidas"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'El carnaval del arlequín' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué artista encabeza el movimiento de pintura de acción (action painting) arrojando pintura sobre el lienzo en el suelo?",
+      "options": [
+        "Mark Rothko",
+        "Jackson Pollock",
+        "Willem de Kooning",
+        "Barnett Newman"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Jackson Pollock' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién pintó 'Autorretrato con collar de espinas y colibrí'?",
+      "options": [
+        "Remedios Varo",
+        "Frida Kahlo",
+        "Leonora Carrington",
+        "Diego Rivera"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Frida Kahlo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué estilo pictórico del siglo XVII se caracteriza por fuertes contrastes de luz y sombra (claroscuro extremo)?",
+      "options": [
+        "Manierismo",
+        "Tenebrismo",
+        "Rococó",
+        "Neoclasicismo"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Tenebrismo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién es el autor de la icónica estructura de acero y cristal de la pirámide del Museo del Louvre?",
+      "options": [
+        "I. M. Pei",
+        "Renzo Piano",
+        "Norman Foster",
+        "Zaha Hadid"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'I. M. Pei' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué pintor renacentista italiano pintó 'La escuela de Atenas'?",
+      "options": [
+        "Leonardo",
+        "Miguel Ángel",
+        "Rafael",
+        "Tiziano"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Rafael' por definición y datos contrastados."
+    }
+  ],
+  "entretenimiento": [
+    {
+      "question": "¿Quién dirigió la trilogía cinematográfica de 'El Señor de los Anillos'?",
+      "options": [
+        "Steven Spielberg",
+        "Peter Jackson",
+        "James Cameron",
+        "Christopher Nolan"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Peter Jackson' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el bar donde se reúne la pandilla en la serie 'How I Met Your Mother'?",
+      "options": [
+        "Central Perk",
+        "MacLaren's Pub",
+        "Cheers",
+        "Paddy's Pub"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'MacLaren's Pub' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la película animada de mayor recaudación de la historia de Studio Ghibli?",
+      "options": [
+        "Mi vecino Totoro",
+        "El viaje de Chihiro",
+        "La princesa Mononoke",
+        "El increíble castillo vagabundo"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'El viaje de Chihiro' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué actor interpreta a Iron Man en el Universo Cinematográfico de Marvel?",
+      "options": [
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Robert Downey Jr.",
+        "Chris Hemsworth"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Robert Downey Jr.' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el planeta natal de Luke Skywalker en Star Wars?",
+      "options": [
+        "Corellia",
+        "Naboo",
+        "Tatooine",
+        "Alderaan"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Tatooine' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué serie de Netflix popularizó el juego infantil coreano 'Luz roja, luz verde' con un giro mortal?",
+      "options": [
+        "Alice in Borderland",
+        "El juego del calamar",
+        "All of Us Are Dead",
+        "Kingdom"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'El juego del calamar' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién compuso la famosa banda sonora de 'Star Wars', 'Indiana Jones' y 'Jurassic Park'?",
+      "options": [
+        "Hans Zimmer",
+        "Ennio Morricone",
+        "John Williams",
+        "Danny Elfman"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'John Williams' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué año se estrenó la primera película de 'Jurassic Park' dirigida por Steven Spielberg?",
+      "options": [
+        "1990",
+        "1993",
+        "1996",
+        "1999"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '1993' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el joven mago protagonista de la saga escrita por J.K. Rowling?",
+      "options": [
+        "Frodo Bolsón",
+        "Harry Potter",
+        "Percy Jackson",
+        "Newt Scamander"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Harry Potter' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué banda británica de rock protagonizó la película animada 'Yellow Submarine'?",
+      "options": [
+        "The Rolling Stones",
+        "The Beatles",
+        "Queen",
+        "Pink Floyd"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'The Beatles' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el nombre del intrépido vaquero protagonista de 'Toy Story'?",
+      "options": [
+        "Buzz Lightyear",
+        "Woody",
+        "Jessie",
+        "Andy"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Woody' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué director ganó el Óscar a Mejor Película en 2020 con 'Parasite' (Parásitos)?",
+      "options": [
+        "Park Chan-wook",
+        "Bong Joon-ho",
+        "Kim Jee-woon",
+        "Lee Chang-dong"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Bong Joon-ho' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama la famosa cafetería de la serie 'Friends'?",
+      "options": [
+        "Central Perk",
+        "Monk's Diner",
+        "The coffee bean",
+        "Bada Bing"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Central Perk' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué actor encarnó al Guasón (Joker) en la película de Christopher Nolan 'The Dark Knight'?",
+      "options": [
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Heath Ledger",
+        "Jack Nicholson"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Heath Ledger' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la serie de televisión de fantasía medieval basada en las novelas de George R.R. Martin?",
+      "options": [
+        "The Witcher",
+        "Game of Thrones",
+        "The Wheel of Time",
+        "Vikings"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Game of Thrones' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué superhéroe de DC Comics vive en Gotham City?",
+      "options": [
+        "Superman",
+        "The Flash",
+        "Batman",
+        "Aquaman"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Batman' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el ogro verde protagonista de las películas de DreamWorks?",
+      "options": [
+        "Fiona",
+        "Asno",
+        "Shrek",
+        "Lord Farquaad"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Shrek' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué famoso agente secreto británico tiene el código 007?",
+      "options": [
+        "Ethan Hunt",
+        "Jason Bourne",
+        "James Bond",
+        "Jack Ryan"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'James Bond' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué película aparece la famosa frase 'Que la Fuerza te acompañe'?",
+      "options": [
+        "Star Trek",
+        "Star Wars",
+        "Matrix",
+        "Blade Runner"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Star Wars' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién es el creador de la exitosa serie animada 'Los Simpson'?",
+      "options": [
+        "Seth MacFarlane",
+        "Matt Groening",
+        "Trey Parker",
+        "Mike Judge"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Matt Groening' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué plataforma de streaming produjo la aclamada serie de ciencia ficción 'Stranger Things'?",
+      "options": [
+        "Amazon Prime",
+        "Disney+",
+        "Netflix",
+        "HBO Max"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Netflix' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el nombre del reino submarino donde vive la sirenita Ariel?",
+      "options": [
+        "Atlantis",
+        "Avalor",
+        "Atlántica",
+        "Lemuria"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Atlántica' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué actor protagonizó la película 'Forrest Gump' en 1994?",
+      "options": [
+        "Harrison Ford",
+        "Tom Hanks",
+        "Brad Pitt",
+        "Tom Cruise"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Tom Hanks' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el león protagonista de 'El Rey León'?",
+      "options": [
+        "Mufasa",
+        "Scar",
+        "Simba",
+        "Timón"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Simba' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué saga cinematográfica incluye personajes como Katniss Everdeen y los Juegos del Hambre?",
+      "options": [
+        "Divergente",
+        "Maze Runner",
+        "Los Juegos del Hambre",
+        "Crepúsculo"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Los Juegos del Hambre' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el nombre del perro fiel de Mickey Mouse?",
+      "options": [
+        "Goofy",
+        "Pluto",
+        "Bolt",
+        "Snoopy"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Pluto' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué director es conocido por películas como 'Pulp Fiction', 'Kill Bill' y 'Bastardos sin gloria'?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "David Fincher",
+        "Stanley Kubrick"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Quentin Tarantino' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el nombre de la academia de magia a la que asiste Harry Potter?",
+      "options": [
+        "Beauxbatons",
+        "Durmstrang",
+        "Hogwarts",
+        "Ilvermorny"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Hogwarts' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué banda de rock lideraba Freddie Mercury?",
+      "options": [
+        "Led Zeppelin",
+        "The Rolling Stones",
+        "Queen",
+        "AC/DC"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Queen' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el robot amarillo y negro que se transforma en coche en 'Transformers'?",
+      "options": [
+        "Optimus Prime",
+        "Megatron",
+        "Bumblebee",
+        "Starscream"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Bumblebee' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué película animada de Pixar transcurre en la celebración mexicana del Día de los Muertos?",
+      "options": [
+        "Brave",
+        "Coco",
+        "Soul",
+        "Up"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Coco' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la profesión del personaje Walter White en la serie 'Breaking Bad'?",
+      "options": [
+        "Abogado",
+        "Profesor de química",
+        "Policía",
+        "Médico"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Profesor de química' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué actor interpreta a Jack Dawson en la superproducción 'Titanic' (1997)?",
+      "options": [
+        "Brad Pitt",
+        "Johnny Depp",
+        "Leonardo DiCaprio",
+        "Matt Damon"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Leonardo DiCaprio' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el archienemigo de Batman que viste de verde y usa acertijos?",
+      "options": [
+        "El Guasón",
+        "El Pingüino",
+        "El Acertijo (Riddler)",
+        "Dos Caras"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'El Acertijo (Riddler)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el nombre del vaquero espacial protagonista de la serie anime 'Cowboy Bebop'?",
+      "options": [
+        "Spike Spiegel",
+        "Vash the Stampede",
+        "Goku",
+        "Luffy"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Spike Spiegel' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué estudio cinematográfico produjo 'Toy Story', la primera película animada completamente por computadora?",
+      "options": [
+        "DreamWorks",
+        "Pixar",
+        "Disney",
+        "Illumination"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Pixar' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién interpreta a Wednesday Addams en la exitosa serie de Netflix 'Merlina'?",
+      "options": [
+        "Jenna Ortega",
+        "Millie Bobby Brown",
+        "Emma Myers",
+        "Sadie Sink"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Jenna Ortega' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el nombre de la ciudad ficticia donde vive Batman?",
+      "options": [
+        "Metrópolis",
+        "Central City",
+        "Gotham City",
+        "Star City"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Gotham City' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué película de ciencia ficción de 1999 popularizó el efecto 'bullet time' y las pastillas roja y azul?",
+      "options": [
+        "Blade Runner",
+        "The Matrix",
+        "Terminator 2",
+        "Inception"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'The Matrix' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama la joven protagonista de 'Stranger Things' con poderes telequinéticos?",
+      "options": [
+        "Max",
+        "Nancy",
+        "Eleven (Oni)",
+        "Robin"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Eleven (Oni)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué cantante pop es conocida como la 'Reina del Pop'?",
+      "options": [
+        "Lady Gaga",
+        "Madonna",
+        "Britney Spears",
+        "Beyoncé"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Madonna' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama la muñeca poseída que forma parte del universo cinematográfico de 'El Conjuro'?",
+      "options": [
+        "Chucky",
+        "Annabelle",
+        "Tiffany",
+        "M3GAN"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Annabelle' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el nombre del carismático pirata interpretado por Johnny Depp en 'Piratas del Caribe'?",
+      "options": [
+        "Capitán Garfio",
+        "Jack Sparrow",
+        "Barbanegra",
+        "Henry Morgan"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Jack Sparrow' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué serie de HBO trata sobre las brutales luchas por el control de un conglomerado mediático familiar?",
+      "options": [
+        "Succession",
+        "Mad Men",
+        "Billions",
+        "The Crown"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Succession' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién es el autor de los libros en los que se basa la serie 'Game of Thrones'?",
+      "options": [
+        "J.R.R. Tolkien",
+        "George R.R. Martin",
+        "Brandon Sanderson",
+        "Andrzej Sapkowski"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'George R.R. Martin' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué película de animación de Hayao Miyazaki narra la historia de un espíritu del bosque y dos niñas?",
+      "options": [
+        "Ponyo",
+        "Mi vecino Totoro",
+        "Nausicaä",
+        "Porco Rosso"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Mi vecino Totoro' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el superhéroe arácnido de Marvel cuyo tío Ben le enseñó que 'un gran poder conlleva una gran responsabilidad'?",
+      "options": [
+        "Daredevil",
+        "Spider-Man",
+        "Thor",
+        "Capitán América"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Spider-Man' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué banda interpretó el legendario éxito 'Bohemian Rhapsody' en 1975?",
+      "options": [
+        "Led Zeppelin",
+        "The Beatles",
+        "Queen",
+        "Pink Floyd"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Queen' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el dragón blanco y amigable de la película 'La historia sin fin'?",
+      "options": [
+        "Mushu",
+        "Falkor",
+        "Haku",
+        "Smaug"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Falkor' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué actor encarnó a James Bond en la aclamada trilogía moderna de 'Casino Royale', 'Skyfall' y 'Sin tiempo para morir'?",
+      "options": [
+        "Pierce Brosnan",
+        "Daniel Craig",
+        "Sean Connery",
+        "Roger Moore"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Daniel Craig' por definición y datos contrastados."
+    }
+  ],
+  "programacion": [
+    {
+      "question": "¿Qué significa HTML en el contexto del desarrollo web?",
+      "options": [
+        "Hyper Text Markup Language",
+        "High Tech Multi Language",
+        "Hyper Transfer Machine Language",
+        "Home Tool Markup Language"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Hyper Text Markup Language' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál de los siguientes lenguajes se usa principalmente para dar estilo y diseño a las páginas web?",
+      "options": [
+        "JavaScript",
+        "Python",
+        "CSS",
+        "SQL"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'CSS' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién creó el lenguaje de programación JavaScript en 1995?",
+      "options": [
+        "Guido van Rossum",
+        "Brendan Eich",
+        "James Gosling",
+        "Bjarne Stroustrup"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Brendan Eich' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué estructura de datos sigue el principio FIFO (First In, First Out)?",
+      "options": [
+        "Pila (Stack)",
+        "Cola (Queue)",
+        "Árbol (Tree)",
+        "Grafo (Graph)"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Cola (Queue)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el sistema de control de versiones distribuido más utilizado en el mundo?",
+      "options": [
+        "SVN",
+        "Mercurial",
+        "Git",
+        "CVS"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Git' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué significa la sigla API?",
+      "options": [
+        "Application Programming Interface",
+        "Advanced Program Integration",
+        "Automated Protocol Interaction",
+        "Application Process Instruction"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Application Programming Interface' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un framework de JavaScript creado por Meta (Facebook)?",
+      "options": [
+        "Angular",
+        "Vue.js",
+        "React",
+        "Django"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'React' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué operador se utiliza en JavaScript para la comparación estricta (valor y tipo)?",
+      "options": [
+        "==",
+        "===",
+        "=",
+        "!="
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '===' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el lenguaje de programación principal para el desarrollo de aplicaciones nativas en Android junto con Kotlin?",
+      "options": [
+        "Swift",
+        "Java",
+        "Objective-C",
+        "Ruby"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Java' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué tipo de base de datos organiza la información en tablas con filas y columnas relacionadas?",
+      "options": [
+        "NoSQL",
+        "Relacional (SQL)",
+        "Orientada a grafos",
+        "Clave-valor"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Relacional (SQL)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué significa CSS?",
+      "options": [
+        "Computer Style Sheets",
+        "Cascading Style Sheets",
+        "Creative Style System",
+        "Colorful Style Sheets"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Cascading Style Sheets' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál de estos lenguajes fue creado por Guido van Rossum y lleva el nombre de un grupo humorístico británico?",
+      "options": [
+        "Ruby",
+        "Python",
+        "Perl",
+        "Rust"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Python' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué comando de Git se utiliza para descargar un repositorio remoto por primera vez?",
+      "options": [
+        "git push",
+        "git commit",
+        "git clone",
+        "git pull"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'git clone' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué método HTTP se utiliza típicamente para enviar nuevos datos a un servidor (crear un recurso)?",
+      "options": [
+        "GET",
+        "POST",
+        "DELETE",
+        "PUT"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'POST' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la extensión de archivo estándar para los componentes de React que contienen JSX?",
+      "options": [
+        ".js o .jsx",
+        ".ts o .tsx",
+        ".html",
+        ".react"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '.js o .jsx' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué significa SQL?",
+      "options": [
+        "Simple Query Language",
+        "Structured Query Language",
+        "Sequential Query Language",
+        "Standard Question Language"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Structured Query Language' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un entorno de ejecución de JavaScript basado en el motor V8 de Chrome?",
+      "options": [
+        "Node.js",
+        "Django",
+        "Spring Boot",
+        "Laravel"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Node.js' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué estructura de datos sigue el principio LIFO (Last In, First Out)?",
+      "options": [
+        "Cola",
+        "Pila (Stack)",
+        "Tabla Hash",
+        "Lista enlazada"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Pila (Stack)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién es conocido como el creador del sistema operativo Linux?",
+      "options": [
+        "Bill Gates",
+        "Steve Jobs",
+        "Linus Torvalds",
+        "Mark Zuckerberg"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Linus Torvalds' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué biblioteca o framework de CSS se basa en clases utilitarias como 'flex', 'bg-red-500' o 'p-4'?",
+      "options": [
+        "Bootstrap",
+        "Tailwind CSS",
+        "Foundation",
+        "Bulma"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Tailwind CSS' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál de los siguientes no es un lenguaje de programación?",
+      "options": [
+        "Python",
+        "HTML",
+        "C++",
+        "Rust"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'HTML' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué método de array en JavaScript crea un nuevo array con los resultados de la llamada a la función provista aplicada a cada elemento?",
+      "options": [
+        "filter()",
+        "reduce()",
+        "map()",
+        "forEach()"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'map()' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el puerto predeterminado en el que se ejecuta un servidor de desarrollo de Vite?",
+      "options": [
+        "3000",
+        "5173",
+        "8080",
+        "4200"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '5173' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué significa JSON?",
+      "options": [
+        "JavaScript Object Notation",
+        "Java Syntax Output Name",
+        "Junction Serialized Online Node",
+        "JavaScript Oriented Network"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'JavaScript Object Notation' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué paradigma de programación enfatiza el uso de funciones puras y evita el estado mutable?",
+      "options": [
+        "Programación orientada a objetos",
+        "Programación funcional",
+        "Programación imperativa",
+        "Programación estructurada"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Programación funcional' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál de los siguientes lenguajes fue desarrollado por Microsoft y añade tipado estático a JavaScript?",
+      "options": [
+        "CoffeeScript",
+        "TypeScript",
+        "Dart",
+        "Elm"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'TypeScript' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué comando de Git guarda los cambios actuales en el área de preparación (staging area)?",
+      "options": [
+        "git commit",
+        "git add",
+        "git push",
+        "git status"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'git add' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el propósito del hook `useState` en React?",
+      "options": [
+        "Manejar efectos secundarios",
+        "Gestionar el estado local en componentes funcionales",
+        "Optimizar el rendimiento memorizando funciones",
+        "Conectar con una API externa"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Gestionar el estado local en componentes funcionales' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué significa el acrónimo DOM en desarrollo web?",
+      "options": [
+        "Document Object Model",
+        "Data Oriented Management",
+        "Digital Online Method",
+        "Document Operation Mechanism"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Document Object Model' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál de estos protocolos se utiliza para transferir páginas web de forma segura (encriptada)?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'HTTPS' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué es un 'Bug' en programación?",
+      "options": [
+        "Una mejora de rendimiento",
+        "Un error o fallo en el código",
+        "Un virus informático malicioso",
+        "Un comentario oculto"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Un error o fallo en el código' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el operador lógico 'AND' en la mayoría de los lenguajes de programación como JavaScript?",
+      "options": [
+        "||",
+        "&&",
+        "!",
+        "=="
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '&&' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué herramienta de empaquetado y construcción rápida para la web fue creada por Evan You?",
+      "options": [
+        "Webpack",
+        "Parcel",
+        "Vite",
+        "Rollup"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Vite' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué tipo de bucle se ejecuta al menos una vez antes de evaluar la condición en algunos lenguajes (como do-while)?",
+      "options": [
+        "for",
+        "while",
+        "do-while",
+        "foreach"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'do-while' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el resultado de `typeof NaN` en JavaScript?",
+      "options": [
+        "'NaN'",
+        "'undefined'",
+        "'number'",
+        "'object'"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es ''number'' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué significa CRUD en el contexto de bases de datos y desarrollo de software?",
+      "options": [
+        "Create, Read, Update, Delete",
+        "Compile, Run, Use, Debug",
+        "Control, Rate, Unify, Direct",
+        "Client, Request, User, Database"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Create, Read, Update, Delete' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál de los siguientes frameworks de backend está escrito en Python?",
+      "options": [
+        "Express",
+        "Django",
+        "Spring Boot",
+        "Laravel"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Django' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué método se usa en JavaScript para convertir una cadena JSON en un objeto de JavaScript?",
+      "options": [
+        "JSON.stringify()",
+        "JSON.parse()",
+        "JSON.object()",
+        "JSON.convert()"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'JSON.parse()' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué significa el acrónimo IDE en el contexto de desarrollo?",
+      "options": [
+        "Internet Development Engine",
+        "Integrated Development Environment",
+        "Interactive Design Editor",
+        "Internal Data Execution"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Integrated Development Environment' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un sistema de control de bases de datos NoSQL muy popular?",
+      "options": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "SQLite"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'MongoDB' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué hook de React se utiliza para manejar efectos secundarios como llamadas a APIs o suscripciones?",
+      "options": [
+        "useState",
+        "useEffect",
+        "useContext",
+        "useRef"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'useEffect' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el lenguaje principal para programar aplicaciones para iPhone (iOS)?",
+      "options": [
+        "Java",
+        "Kotlin",
+        "Swift",
+        "C#"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Swift' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué etiqueta de HTML se utiliza para insertar código JavaScript externo?",
+      "options": [
+        "<style>",
+        "<script>",
+        "<link>",
+        "<code"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '<script>' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué es la recursividad en programación?",
+      "options": [
+        "Una función que se llama a sí misma",
+        "Un bucle infinito accidental",
+        "Un error de sintaxis grave",
+        "Una variable global"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Una función que se llama a sí misma' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál de las siguientes tecnologías se utiliza para almacenar datos persistentes en el navegador del cliente de forma síncrona/clave-valor?",
+      "options": [
+        "localStorage",
+        "Cookies únicamente",
+        "Servidor Redis",
+        "Memoria RAM"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'localStorage' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué significa CSS Grid en diseño web?",
+      "options": [
+        "Un sistema de diseño bidimensional basado en filas y columnas",
+        "Una librería de animación",
+        "Un tipo de fuente tipográfica",
+        "Un protocolo de red"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Un sistema de diseño bidimensional basado en filas y columnas' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué operador se utiliza en JavaScript para asignar un valor por defecto si la variable es null o undefined (Nullish coalescing)?",
+      "options": [
+        "||",
+        "??",
+        "&&",
+        "?:"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '??' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién es el autor intelectual del lenguaje C++?",
+      "options": [
+        "Dennis Ritchie",
+        "Bjarne Stroustrup",
+        "James Gosling",
+        "Guido van Rossum"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Bjarne Stroustrup' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué significa CORS en seguridad web?",
+      "options": [
+        "Cross-Origin Resource Sharing",
+        "Client Online Routing System",
+        "Cascading Object Response Schema",
+        "Centralized Operating Request Secure"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Cross-Origin Resource Sharing' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del diseño responsivo (Responsive Web Design)?",
+      "options": [
+        "Que la web cargue más rápido",
+        "Adaptar la interfaz de manera fluida a cualquier tamaño de pantalla",
+        "Bloquear el acceso móvil",
+        "Utilizar inteligencia artificial"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Adaptar la interfaz de manera fluida a cualquier tamaño de pantalla' por definición y datos contrastados."
+    }
+  ],
+  "matematicas": [
+    {
+      "question": "¿Cuál es el valor del número Pi (π) aproximado a dos decimales?",
+      "options": [
+        "3.12",
+        "3.14",
+        "3.16",
+        "3.18"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '3.14' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la raíz cuadrada de 144?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '12' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama un triángulo que tiene sus tres lados iguales?",
+      "options": [
+        "Isósceles",
+        "Escaleno",
+        "Equilátero",
+        "Rectángulo"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Equilátero' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el resultado de la operación: 7 + 8 × 2?",
+      "options": [
+        "30",
+        "23",
+        "22",
+        "15"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '23' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué nombre recibe un polígono de 5 lados?",
+      "options": [
+        "Hexágono",
+        "Pentágono",
+        "Heptágono",
+        "Octágono"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Pentágono' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el número primo más pequeño?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '2' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se le llama a la línea que divide un círculo en dos partes iguales pasando por el centro?",
+      "options": [
+        "Radio",
+        "Cuerda",
+        "Diámetro",
+        "Tangente"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Diámetro' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuánto suman los ángulos interiores de cualquier triángulo?",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '180°' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el resultado de 2 elevado a la décima potencia (2^10)?",
+      "options": [
+        "512",
+        "1024",
+        "2048",
+        "256"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '1024' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se denomina al número que sólo es divisible por sí mismo y por 1?",
+      "options": [
+        "Número par",
+        "Número compuesto",
+        "Número primo",
+        "Número perfecto"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Número primo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el valor de 9 al cuadrado (9^2)?",
+      "options": [
+        "18",
+        "72",
+        "81",
+        "90"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '81' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué rama de las matemáticas estudia las propiedades de las figuras en el espacio y en el plano?",
+      "options": [
+        "Álgebra",
+        "Geometría",
+        "Cálculo",
+        "Estadística"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Geometría' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el resultado de una multiplicación?",
+      "options": [
+        "Suma",
+        "Cociente",
+        "Producto",
+        "Diferencia"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Producto' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el resultado de dividir 100 entre 0.5?",
+      "options": [
+        "50",
+        "100",
+        "200",
+        "500"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '200' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué teorema establece que en un triángulo rectángulo el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos?",
+      "options": [
+        "Teorema de Tales",
+        "Teorema de Pitágoras",
+        "Teorema de Fermat",
+        "Teorema de Euclides"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Teorema de Pitágoras' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el mínimo común múltiplo (mcm) de 4 y 6?",
+      "options": [
+        "12",
+        "24",
+        "2",
+        "10"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '12' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama un ángulo que mide exactamente 90 grados?",
+      "options": [
+        "Agudo",
+        "Obtuso",
+        "Recto",
+        "Llano"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Recto' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el máximo común divisor (mcd) de 12 y 18?",
+      "options": [
+        "3",
+        "6",
+        "2",
+        "36"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '6' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué número romano representa el 50?",
+      "options": [
+        "V",
+        "X",
+        "L",
+        "C"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'L' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el resultado de calcular el 15% de 200?",
+      "options": [
+        "15",
+        "20",
+        "30",
+        "45"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '30' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama la función matemática inversa de la exponenciación?",
+      "options": [
+        "Logaritmo",
+        "Derivada",
+        "Integral",
+        "Factorial"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Logaritmo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el valor de 0 factorial (0!)?",
+      "options": [
+        "0",
+        "1",
+        "Indefinido",
+        "Infinito"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '1' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la pendiente de una recta horizontal en el plano cartesiano?",
+      "options": [
+        "1",
+        "0",
+        "Indefinida",
+        "Infinito"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '0' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llaman dos ángulos cuya suma es exactamente 180 grados?",
+      "options": [
+        "Complementarios",
+        "Suplementarios",
+        "Adyacentes",
+        "Opuestos por el vértice"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Suplementarios' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el resultado de la raíz cúbica de 27?",
+      "options": [
+        "2",
+        "3",
+        "9",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '3' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué cuadrante del plano cartesiano la coordenada X es positiva y la coordenada Y es negativa?",
+      "options": [
+        "Cuadrante I",
+        "Cuadrante II",
+        "Cuadrante III",
+        "Cuadrante IV"
+      ],
+      "correct": 3,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Cuadrante IV' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la suma de los primeros 10 números enteros positivos (1 al 10)?",
+      "options": [
+        "45",
+        "50",
+        "55",
+        "100"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '55' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se le llama a una matriz que tiene el mismo número de filas que de columnas?",
+      "options": [
+        "Matriz identidad",
+        "Matriz cuadrada",
+        "Matriz diagonal",
+        "Matriz nula"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Matriz cuadrada' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué matemático formuló la famosa conjetura sobre los números primos conocida como su 'Último Teorema'?",
+      "options": [
+        "René Descartes",
+        "Pierre de Fermat",
+        "Leonhard Euler",
+        "Carl Friedrich Gauss"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Pierre de Fermat' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el valor de la base de los logaritmos naturales (número e) aproximado a dos decimales?",
+      "options": [
+        "2.71",
+        "3.14",
+        "1.61",
+        "1.41"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '2.71' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el triángulo que tiene tres lados de distinta longitud?",
+      "options": [
+        "Equilátero",
+        "Isósceles",
+        "Escaleno",
+        "Obtusángulo"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Escaleno' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el área de un círculo cuyo radio es 5 cm (usando π ≈ 3.14)?",
+      "options": [
+        "31.4 cm²",
+        "78.5 cm²",
+        "15.7 cm²",
+        "25 cm²"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '78.5 cm²' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el resultado de simplificar la fracción 48/64?",
+      "options": [
+        "3/4",
+        "2/3",
+        "5/8",
+        "7/9"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '3/4' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se denomina a la razón entre el cateto opuesto y la hipotenusa en un triángulo rectángulo?",
+      "options": [
+        "Coseno",
+        "Seno",
+        "Tangente",
+        "Cotangente"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Seno' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el valor de (-5) multiplicado por (-5)?",
+      "options": [
+        "-25",
+        "25",
+        "-10",
+        "10"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '25' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué nombre recibe la rama de las matemáticas que calcula probabilidades y análisis de datos?",
+      "options": [
+        "Álgebra lineal",
+        "Estadística y Probabilidad",
+        "Cálculo diferencial",
+        "Trigonometría"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Estadística y Probabilidad' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el volumen de un cubo cuyo lado mide 3 cm?",
+      "options": [
+        "9 cm³",
+        "18 cm³",
+        "27 cm³",
+        "81 cm³"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '27 cm³' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama la curva simétrica en forma de U que representa gráficamente una función cuadrática?",
+      "options": [
+        "Hipérbola",
+        "Elipse",
+        "Parábola",
+        "Circunferencia"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Parábola' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el resultado de 3 + 3 × 3 - 3 ÷ 3?",
+      "options": [
+        "11",
+        "9",
+        "7",
+        "5"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '11' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué matemático griego escribió 'Los Elementos', uno de los libros más influyentes en la historia de la geometría?",
+      "options": [
+        "Pitágoras",
+        "Arquímedes",
+        "Euclides",
+        "Tales de Mileto"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Euclides' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el valor absoluto de -42?",
+      "options": [
+        "-42",
+        "0",
+        "42",
+        "1"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '42' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el punto donde se cortan las tres medianas de un triángulo?",
+      "options": [
+        "Ortocentro",
+        "Circuncentro",
+        "Baricentro (Centroide)",
+        "Incentro"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Baricentro (Centroide)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué número es el sucesor de -1 en los números enteros?",
+      "options": [
+        "-2",
+        "0",
+        "1",
+        "-1"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '0' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el resultado de elevar cualquier número diferente de cero a la potencia 0?",
+      "options": [
+        "El propio número",
+        "0",
+        "1",
+        "Infinito"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '1' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se le llama a un número que se puede expresar como el cociente de dos enteros (fracción)?",
+      "options": [
+        "Número irracional",
+        "Número racional",
+        "Número real",
+        "Número imaginario"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Número racional' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el perímetro de un rectángulo que mide 10 cm de largo y 5 cm de ancho?",
+      "options": [
+        "15 cm",
+        "30 cm",
+        "50 cm",
+        "20 cm"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '30 cm' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién es considerado el 'Príncipe de los Matemáticos' por sus innumerables contribuciones?",
+      "options": [
+        "Leonhard Euler",
+        "Carl Friedrich Gauss",
+        "Isaac Newton",
+        "Gottfried Leibniz"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Carl Friedrich Gauss' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el siguiente número en la secuencia de Fibonacci: 1, 1, 2, 3, 5, 8, 13, ...?",
+      "options": [
+        "18",
+        "21",
+        "24",
+        "34"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '21' por definición y datos contrastados."
+    }
+  ],
+  "historia": [
+    {
+      "question": "¿En qué año comenzó la Revolución Francesa?",
+      "options": [
+        "1492",
+        "1789",
+        "1810",
+        "1914"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '1789' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién fue el primer emperador del Imperio Romano?",
+      "options": [
+        "Julio César",
+        "Nerón",
+        "Augusto (Octavio)",
+        "Constantino"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Augusto (Octavio)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué año llegó Cristóbal Colón a América?",
+      "options": [
+        "1492",
+        "1500",
+        "1485",
+        "1512"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '1492' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué civilización mesoamericana construyó la ciudad de Chichén Itzá?",
+      "options": [
+        "Azteca",
+        "Inca",
+        "Maya",
+        "Olmeca"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Maya' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál fue el imperio que construyó el Coliseo en Roma?",
+      "options": [
+        "Imperio Griego",
+        "Imperio Romano",
+        "Imperio Persa",
+        "Imperio Bizantino"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Imperio Romano' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué muro cayó en noviembre de 1989 simbolizando el fin de la Guerra Fría?",
+      "options": [
+        "Muro de Adriano",
+        "Muro de Berlín",
+        "Gran Muralla China",
+        "Muro de Limes"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Muro de Berlín' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién fue el líder de la Revolución Cubana junto a Fidel Castro?",
+      "options": [
+        "Simón Bolívar",
+        "Ernesto 'Che' Guevara",
+        "José Martí",
+        "Salvador Allende"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Ernesto 'Che' Guevara' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué año terminó la Segunda Guerra Mundial?",
+      "options": [
+        "1939",
+        "1942",
+        "1945",
+        "1950"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '1945' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué líder militar cartaginés cruzó los Alpes con elefantes para atacar a Roma?",
+      "options": [
+        "Aníbal",
+        "Escipión el Africano",
+        "Espartaco",
+        "Mitrídates"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Aníbal' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál era la capital del Imperio Inca?",
+      "options": [
+        "Machu Picchu",
+        "Cusco",
+        "Lima",
+        "Quito"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Cusco' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué reina de Egipto mantuvo romances con Julio César y Marco Antonio?",
+      "options": [
+        "Nefertiti",
+        "Cleopatra",
+        "Hatshepsut",
+        "Ancjesenamón"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Cleopatra' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué siglo comenzó la Primera Guerra Mundial?",
+      "options": [
+        "Siglo XIX",
+        "Siglo XX",
+        "Siglo XXI",
+        "Siglo XVIII"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Siglo XX' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién pintó la Mona Lisa? (Dato histórico-artístico)",
+      "options": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Rafael",
+        "Donatello"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Leonardo da Vinci' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué país fue el hogar de la Revolución Industrial en el siglo XVIII?",
+      "options": [
+        "Francia",
+        "Alemania",
+        "Reino Unido",
+        "Estados Unidos"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Reino Unido' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llamaba el líder sudafricano que luchó contra el apartheid y fue presidente?",
+      "options": [
+        "Kofi Annan",
+        "Nelson Mandela",
+        "Desmond Tutu",
+        "Patrice Lumumba"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Nelson Mandela' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué imperio conquistó Constantinopla en 1453, marcando el fin de la Edad Media?",
+      "options": [
+        "Imperio Otomano",
+        "Imperio Mongol",
+        "Imperio Persa",
+        "Imperio Austro-Húngaro"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Imperio Otomano' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién fue el principal líder del movimiento por los derechos civiles en EE. UU. en los años 60?",
+      "options": [
+        "Malcolm X",
+        "Martin Luther King Jr.",
+        "Rosa Parks",
+        "John F. Kennedy"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Martin Luther King Jr.' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué explorador portugués completó la primera circunnavegación del globo (aunque falleció en el viaje)?",
+      "options": [
+        "Vasco da Gama",
+        "Fernando de Magallanes",
+        "Bartolomé Díaz",
+        "Américo Vespucio"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Fernando de Magallanes' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál fue la civilización que creó la escritura cuneiforme?",
+      "options": [
+        "Los egipcios",
+        "Los sumerios (Mesopotamia)",
+        "Los fenicios",
+        "Los chinos"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Los sumerios (Mesopotamia)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué año el hombre pisó la Luna por primera vez?",
+      "options": [
+        "1965",
+        "1969",
+        "1972",
+        "1975"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '1969' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué país donó la Estatua de la Libertad a los Estados Unidos?",
+      "options": [
+        "Reino Unido",
+        "España",
+        "Francia",
+        "Italia"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Francia' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién fue el dictador de la Unión Soviética durante la mayor parte de la Segunda Guerra Mundial?",
+      "options": [
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Leon Trotsky",
+        "Nikita Khrushchev"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Joseph Stalin' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llamaba el barco en el que Charles Darwin viajó alrededor del mundo formulando su teoría?",
+      "options": [
+        "HMS Beagle",
+        "Santa María",
+        "Mayflower",
+        "Endeavour"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'HMS Beagle' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué guerra enfrentó a las trece colonias americanas contra el Imperio Británico por su independencia?",
+      "options": [
+        "Guerra de Secesión",
+        "Guerra de Independencia de EE. UU.",
+        "Guerra de los Siete Años",
+        "Guerra Hispano-Americana"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Guerra de Independencia de EE. UU.' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién fue el líder militar y político francés que se coronó Emperador en 1804?",
+      "options": [
+        "Luis XIV",
+        "Napoleón Bonaparte",
+        "Maximilien Robespierre",
+        "Charles de Gaulle"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Napoleón Bonaparte' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál era el nombre del acorazado gigante británico que se hundió en su viaje inaugural en 1912?",
+      "options": [
+        "Britannic",
+        "Olympic",
+        "Titanic",
+        "Carpathia"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Titanic' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué dinastía china mandó a construir la mayor parte de la Gran Muralla actual?",
+      "options": [
+        "Dinastía Han",
+        "Dinastía Ming",
+        "Dinastía Qing",
+        "Dinastía Tang"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Dinastía Ming' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién fue el libertador de varios países sudamericanos como Venezuela, Colombia y Perú?",
+      "options": [
+        "José de San Martín",
+        "Simón Bolívar",
+        "Bernardo O'Higgins",
+        "Antonio José de Sucre"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Simón Bolívar' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+      "options": [
+        "1776",
+        "1789",
+        "1812",
+        "1865"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '1776' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué civilización antigua es famosa por embalsamar a sus faraones y construir pirámides en Giza?",
+      "options": [
+        "Antigua Grecia",
+        "Antiguo Egipto",
+        "Mesopotamia",
+        "Imperio Persa"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Antiguo Egipto' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué tratado puso fin formalmente a la Primera Guerra Mundial en 1919?",
+      "options": [
+        "Tratado de Tordesillas",
+        "Tratado de Versalles",
+        "Tratado de Utrecht",
+        "Paz de Westfalia"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Tratado de Versalles' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién fue el científico y matemático griego que exclamó '¡Eureka!' en la bañera?",
+      "options": [
+        "Pitágoras",
+        "Arquímedes",
+        "Sócrates",
+        "Aristóteles"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Arquímedes' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué pueblo marinero del Mediterráneo antiguo inventó el primer alfabeto fonético?",
+      "options": [
+        "Los griegos",
+        "Los fenicios",
+        "Los romanos",
+        "Los cartaginenses"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Los fenicios' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál fue el primer satélite artificial lanzado al espacio por la Unión Soviética en 1957?",
+      "options": [
+        "Apolo 11",
+        "Sputnik 1",
+        "Voyager 1",
+        "Hubble"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Sputnik 1' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué emperador romano legalizó el cristianismo mediante el Edicto de Milán en el 313 d.C.?",
+      "options": [
+        "Augusto",
+        "Nerón",
+        "Constantino el Grande",
+        "Trajano"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Constantino el Grande' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué año cayó el Imperio Romano de Occidente?",
+      "options": [
+        "476 d.C.",
+        "1453 d.C.",
+        "395 d.C.",
+        "27 a.C."
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '476 d.C.' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién escribió el famoso tratado político 'El Príncipe' en el siglo XVI?",
+      "options": [
+        "Tomás Moro",
+        "Nicolás Maquiavelo",
+        "Erasmo de Róterdam",
+        "Jean-Jacques Rousseau"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Nicolás Maquiavelo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué pandemia asoló Europa en el siglo XIV matando a gran parte de su población?",
+      "options": [
+        "La gripe española",
+        "La peste negra",
+        "La viruela",
+        "El cólera"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'La peste negra' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién fue el líder de la independencia de la India que promovió la resistencia pacífica (satyagraha)?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Rabindranath Tagore"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Mahatma Gandhi' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llamaba el sistema político y social predominante en la Europa medieval basado en feudos y vasallaje?",
+      "options": [
+        "Capitalismo",
+        "Feudalismo",
+        "Mercantilismo",
+        "Esclavismo"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Feudalismo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué batalla en 1815 marcó la derrota definitiva de Napoleón Bonaparte?",
+      "options": [
+        "Batalla de Austerlitz",
+        "Batalla de Waterloo",
+        "Batalla de Trafalgar",
+        "Batalla de Leipzig"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Batalla de Waterloo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién fue el primer presidente de los Estados Unidos?",
+      "options": [
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "George Washington",
+        "Abraham Lincoln"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'George Washington' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué país sufrió el lanzamiento de bombas atómicas en Hiroshima y Nagasaki en 1945?",
+      "options": [
+        "Alemania",
+        "Japón",
+        "Italia",
+        "Rusia"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Japón' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué reina británica dio nombre a una era de gran expansión industrial y colonial en el siglo XIX?",
+      "options": [
+        "Reina Isabel I",
+        "Reina Victoria",
+        "Reina Ana",
+        "Reina María Estuardo"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Reina Victoria' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál era el nombre de la ruta comercial histórica que conectaba China con el Mediterráneo?",
+      "options": [
+        "La Ruta de la Seda",
+        "El Camino de Santiago",
+        "La Ruta de las Especias",
+        "La Ruta del Café"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'La Ruta de la Seda' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién fue el líder de la Revolución Rusa de 1917 y fundador de la URSS?",
+      "options": [
+        "Joseph Stalin",
+        "Vladimir Lenin",
+        "Leon Trotsky",
+        "Aleksandr Kerensky"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Vladimir Lenin' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué civilización construyó Machu Picchu en los Andes peruanos?",
+      "options": [
+        "Azteca",
+        "Maya",
+        "Inca",
+        "Tolteca"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Inca' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué año se descubrió la tumba del faraón Tutankamón por Howard Carter?",
+      "options": [
+        "1905",
+        "1922",
+        "1935",
+        "1940"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '1922' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué presidente de EE. UU. abolió la esclavitud mediante la Proclamación de Emancipación?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "Theodore Roosevelt"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Abraham Lincoln' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué gran imperio dominó el Mediterráneo oriental y el Medio Oriente tras las conquistas de Alejandro Magno?",
+      "options": [
+        "Imperio Persa",
+        "Imperio Helenístico",
+        "Imperio Romano",
+        "Imperio Otomano"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Imperio Helenístico' por definición y datos contrastados."
+    }
+  ],
+  "deportes": [
+    {
+      "question": "¿Cada cuántos años se celebran los Juegos Olímpicos de Verano?",
+      "options": [
+        "2 años",
+        "3 años",
+        "4 años",
+        "5 años"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '4 años' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué país ganó la Copa Mundial de Fútbol de la FIFA en Qatar 2022?",
+      "options": [
+        "Francia",
+        "Brasil",
+        "Argentina",
+        "Alemania"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Argentina' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuántos jugadores forman un equipo titular en el campo de fútbol soccer?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '11' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué deporte se utiliza una raqueta y una pelota pequeña sobre una mesa dividida por una red?",
+      "options": [
+        "Tenis",
+        "Bádminton",
+        "Tenis de mesa (Ping-pong)",
+        "Squash"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Tenis de mesa (Ping-pong)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién es considerado por muchos el mejor basquetbolista de la historia y ganó 6 anillos con los Chicago Bulls?",
+      "options": [
+        "LeBron James",
+        "Kobe Bryant",
+        "Michael Jordan",
+        "Magic Johnson"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Michael Jordan' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la distancia oficial de una carrera de maratón?",
+      "options": [
+        "21.097 km",
+        "42.195 km",
+        "50 km",
+        "100 km"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '42.195 km' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué ciclista es una leyenda del Tour de France con 7 victorias consecutivas (luego descalificadas por dopaje)?",
+      "options": [
+        "Eddy Merckx",
+        "Lance Armstrong",
+        "Miguel Induráin",
+        "Chris Froome"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Lance Armstrong' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué deporte compiten los equipos por la 'Stanley Cup'?",
+      "options": [
+        "Béisbol",
+        "Hockey sobre hielo",
+        "Fútbol americano",
+        "Rugby"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Hockey sobre hielo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuántos puntos vale un tiro libre encestado en el baloncesto?",
+      "options": [
+        "1 punto",
+        "2 puntos",
+        "3 puntos",
+        "Depende de la distancia"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '1 punto' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué tenista ostenta el récord de más títulos de Grand Slam en la categoría masculina?",
+      "options": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Pete Sampras"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Novak Djokovic' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el evento deportivo internacional de fútbol americano que se disputa anualmente en EE. UU.?",
+      "options": [
+        "World Series",
+        "Super Bowl",
+        "Stanley Cup",
+        "NBA Finals"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Super Bowl' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué país ha ganado más Copas Mundiales de Fútbol de la FIFA en la historia?",
+      "options": [
+        "Alemania",
+        "Italia",
+        "Argentina",
+        "Brasil"
+      ],
+      "correct": 3,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Brasil' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué deporte se utiliza el término 'Knockout' (KO)?",
+      "options": [
+        "Boxeo / Artes marciales",
+        "Esgrima",
+        "Golf",
+        "Natación"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Boxeo / Artes marciales' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la duración reglamentaria de un partido de fútbol profesional (sin contar prórroga)?",
+      "options": [
+        "80 minutos",
+        "90 minutos",
+        "100 minutos",
+        "120 minutos"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '90 minutos' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué deportista jamaicano es considerado el hombre más rápido del mundo y múltiple campeón olímpico?",
+      "options": [
+        "Carl Lewis",
+        "Usain Bolt",
+        "Yohan Blake",
+        "Justin Gatlin"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Usain Bolt' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el máximo torneo de tenis sobre tierra batida en París?",
+      "options": [
+        "Abierto de Australia",
+        "Wimbledon",
+        "Roland Garros",
+        "Abierto de EE. UU."
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Roland Garros' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuántos jugadores hay en la cancha por equipo en un partido de baloncesto oficial de la NBA?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '5' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué selección nacional de rugby es famosa por realizar la danza tradicional 'Haka' antes de sus partidos?",
+      "options": [
+        "Australia",
+        "Sudáfrica",
+        "Nueva Zelanda (All Blacks)",
+        "Inglaterra"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Nueva Zelanda (All Blacks)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué deporte se compite por el trofeo 'Vince Lombardi'?",
+      "options": [
+        "Béisbol",
+        "Fútbol americano",
+        "Básquetbol",
+        "Hockey"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Fútbol americano' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la prueba reina de la natación en los Juegos Olímpicos (velocidad pura)?",
+      "options": [
+        "50 metros espalda",
+        "100 metros libres",
+        "200 metros mariposa",
+        "400 metros estilos"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '100 metros libres' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué piloto de Fórmula 1 ostenta el récord compartido de 7 títulos mundiales junto a Michael Schumacher?",
+      "options": [
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Ayrton Senna",
+        "Sebastian Vettel"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Lewis Hamilton' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué deporte se utiliza un 'puck' (disco de caucho) en lugar de una pelota?",
+      "options": [
+        "Polo",
+        "Hockey sobre hielo",
+        "Críquet",
+        "Lacrosse"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Hockey sobre hielo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué ciclista español ganó cinco Tours de Francia consecutivos en los años 90?",
+      "options": [
+        "Alberto Contador",
+        "Miguel Induráin",
+        "Alejandro Valverde",
+        "Oscar Pereiro"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Miguel Induráin' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el nombre del torneo de tenis más antiguo del mundo, jugado sobre césped en Londres?",
+      "options": [
+        "US Open",
+        "Roland Garros",
+        "Wimbledon",
+        "Abierto de Australia"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Wimbledon' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuántas hoyos tiene un campo de golf estándar completo?",
+      "options": [
+        "9 hoyos",
+        "18 hoyos",
+        "36 hoyos",
+        "72 hoyos"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '18 hoyos' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué selección ganó la primera Copa Mundial de Fútbol de la FIFA en 1930?",
+      "options": [
+        "Brasil",
+        "Argentina",
+        "Uruguay",
+        "Italia"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Uruguay' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el arte marcial mixto (MMA) y organización líder mundial en este deporte?",
+      "options": [
+        "WWE",
+        "UFC",
+        "WBO",
+        "NFL"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'UFC' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué es un 'homerun' en el béisbol?",
+      "options": [
+        "Una falta del lanzador",
+        "Cuando el bateador bota la pelota fuera del campo permitiendo anotar carreras",
+        "Un strike out",
+        "Un robo de base"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Cuando el bateador bota la pelota fuera del campo permitiendo anotar carreras' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el país de origen del jugador de fútbol Lionel Messi?",
+      "options": [
+        "Brasil",
+        "España",
+        "Argentina",
+        "Portugal"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Argentina' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuántos jugadores por equipo participan en un partido de voleibol en cancha?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '6' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué deporte practicaba Muhammad Ali antes de convertirse en una leyenda?",
+      "options": [
+        "Lucha libre",
+        "Boxeo",
+        "Artes marciales",
+        "Halterofilia"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Boxeo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el prestigioso torneo de golf conocido por premiar al ganador con una chaqueta verde?",
+      "options": [
+        "The Open Championship",
+        "US Open",
+        "The Masters",
+        "PGA Championship"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'The Masters' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué país organizó los Juegos Olímpicos de Verano en el año 2008?",
+      "options": [
+        "Grecia",
+        "China (Pekín)",
+        "Reino Unido",
+        "Brasil"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'China (Pekín)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué deporte se utiliza una canasta elevada a 3.05 metros de altura?",
+      "options": [
+        "Voleibol",
+        "Baloncesto",
+        "Netball",
+        "Balonmano"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Baloncesto' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué es el 'offside' o fuera de juego en el fútbol?",
+      "options": [
+        "Una falta fuera del área",
+        "Una posición antirreglamentaria de un atacante respecto al último defensa",
+        "Un saque de banda mal ejecutado",
+        "Una tarjeta amarilla por simulación"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Una posición antirreglamentaria de un atacante respecto al último defensa' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién es considerado el rey del fútbol brasileño, ganador de tres Copas del Mundo?",
+      "options": [
+        "Ronaldinho",
+        "Pelé",
+        "Ronaldo Nazário",
+        "Zico"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Pelé' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la velocidad máxima permitida en el carril de boxes de la Fórmula 1 habitualmente?",
+      "options": [
+        "60 km/h",
+        "80 km/h (o 60 km/h según el circuito)",
+        "100 km/h",
+        "120 km/h"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '80 km/h (o 60 km/h según el circuito)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama la competencia ciclística por etapas más importante de Italia (el maillot rosa)?",
+      "options": [
+        "Tour de France",
+        "Vuelta a España",
+        "Giro de Italia",
+        "Milán-San Remo"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Giro de Italia' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué disciplina deportiva incluye natación, ciclismo y carrera a pie en una sola prueba?",
+      "options": [
+        "Pentatlón",
+        "Decatlón",
+        "Triatlón",
+        "Biatlón"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Triatlón' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué jugador portugués es uno de máximo goleadores históricos del fútbol mundial y eterno rival de Messi?",
+      "options": [
+        "Luis Figo",
+        "Cristiano Ronaldo",
+        "Deco",
+        "Bruno Fernandes"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Cristiano Ronaldo' por definición y datos contrastados."
+    },
+    {
+      "question": "¿En qué deporte se utiliza el término 'ace' para un saque directo que el rival no puede tocar?",
+      "options": [
+        "Tenis y Voleibol",
+        "Fútbol",
+        "Baloncesto",
+        "Béisbol"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Tenis y Voleibol' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el equipo de béisbol con más títulos de Serie Mundial en las Grandes Ligas (MLB)?",
+      "options": [
+        "Boston Red Sox",
+        "Los Angeles Dodgers",
+        "New York Yankees",
+        "San Francisco Giants"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'New York Yankees' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué país ganó la Copa Mundial de Fútbol de la FIFA en 2014 celebrada en Brasil?",
+      "options": [
+        "Argentina",
+        "Alemania",
+        "Brasil",
+        "España"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Alemania' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuántos puntos vale un ensayo (try) en el rugby union clásico?",
+      "options": [
+        "3 puntos",
+        "5 puntos",
+        "7 puntos",
+        "4 puntos"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '5 puntos' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama la famosa carrera de resistencia automovilística de 24 horas en Francia?",
+      "options": [
+        "24 Horas de Daytona",
+        "24 Horas de Le Mans",
+        "500 Millas de Indianápolis",
+        "Gran Premio de Mónaco"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '24 Horas de Le Mans' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién es el atleta olímpico con más medallas de oro en la historia (principalmente en natación)?",
+      "options": [
+        "Mark Spitz",
+        "Michael Phelps",
+        "Usain Bolt",
+        "Carl Lewis"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Michael Phelps' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué deporte practica la estrella estadounidense Simone Biles?",
+      "options": [
+        "Patinaje artístico",
+        "Gimnasia artística",
+        "Natación sincronizada",
+        "Atletismo"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Gimnasia artística' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué selección nacional de fútbol es conocida como la 'Naranja Mecánica'?",
+      "options": [
+        "Bélgica",
+        "Países Bajos (Holanda)",
+        "Croacia",
+        "Dinamarca"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Países Bajos (Holanda)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el diámetro de una canasta de baloncesto oficial en pulgadas (aproximadamente 45 cm)?",
+      "options": [
+        "10 pulgadas",
+        "18 pulgadas",
+        "24 pulgadas",
+        "30 pulgadas"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es '18 pulgadas' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué piloto brasileño de Fórmula 1, triple campeón mundial, es considerado uno de los más grandes y queridos de la historia?",
+      "options": [
+        "Nelson Piquet",
+        "Ayrton Senna",
+        "Emerson Fittipaldi",
+        "Felipe Massa"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Ayrton Senna' por definición y datos contrastados."
+    }
+  ],
+  "ciencia": [
+    {
+      "question": "¿Quién formuló la teoría de la relatividad general y especial?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Nikola Tesla",
+        "Stephen Hawking"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Albert Einstein' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del oro en la tabla periódica?",
+      "options": [
+        "Ag",
+        "Au",
+        "Fe",
+        "Cu"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Au' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué planeta del sistema solar es conocido como el 'Planeta Rojo'?",
+      "options": [
+        "Venus",
+        "Júpiter",
+        "Marte",
+        "Saturno"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Marte' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el gas más abundante en la atmósfera de la Tierra?",
+      "options": [
+        "Oxígeno",
+        "Dióxido de carbono",
+        "Nitrógeno",
+        "Hidrógeno"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Nitrógeno' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién propuso la teoría de la evolución por selección natural junto con Alfred Russel Wallace?",
+      "options": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Louis Pasteur",
+        "Jean-Baptiste Lamarck"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Charles Darwin' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la unidad básica de la herencia biológica (portadora de información genética)?",
+      "options": [
+        "Cromosoma",
+        "Gen",
+        "Proteína",
+        "Ribosoma"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Gen' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+      "options": [
+        "Protón",
+        "Neutrón",
+        "Electrón",
+        "Positrón"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Electrón' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "options": [
+        "El hígado",
+        "El cerebro",
+        "La piel",
+        "El intestino delgado"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'La piel' por definición y datos contrastados."
+    },
+    {
+      "question": "¿A qué temperatura en grados Celsius hierve el agua a nivel del mar?",
+      "options": [
+        "50 °C",
+        "90 °C",
+        "100 °C",
+        "212 °C"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '100 °C' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué científico descubrió la penicilina, el primer antibiótico eficaz?",
+      "options": [
+        "Alexander Fleming",
+        "Marie Curie",
+        "Louis Pasteur",
+        "Robert Koch"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Alexander Fleming' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama la galaxia espiral más cercana a nuestra Vía Láctea?",
+      "options": [
+        "Galaxia de Andrómeda",
+        "Galaxia del Triángulo",
+        "Gran Nube de Magallanes",
+        "Sombrero"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Galaxia de Andrómeda' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el elemento químico más ligero y abundante del universo?",
+      "options": [
+        "Helio",
+        "Oxígeno",
+        "Hidrógeno",
+        "Carbono"
+      ],
+      "correct": 2,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Hidrógeno' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué rama de la ciencia estudia los fósiles y la vida prehistórica?",
+      "options": [
+        "Arqueología",
+        "Paleontología",
+        "Geología",
+        "Antropología"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Paleontología' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la velocidad de la luz en el vacío (aproximadamente)?",
+      "options": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "1,000,000 km/s",
+        "3,000 km/s"
+      ],
+      "correct": 0,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es '300,000 km/s' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién fue la física y química pionera en el estudio de la radiactividad, ganadora de dos Premios Nobel?",
+      "options": [
+        "Rosalind Franklin",
+        "Marie Curie",
+        "Lise Meitner",
+        "Ada Lovelace"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Marie Curie' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el proceso mediante el cual las plantas fabrican su propio alimento usando la luz solar?",
+      "options": [
+        "Respiración celular",
+        "Fotosíntesis",
+        "Transpiración",
+        "Fermentación"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Fotosíntesis' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el planeta más grande del sistema solar?",
+      "options": [
+        "Saturno",
+        "Júpiter",
+        "Neptuno",
+        "Urano"
+      ],
+      "correct": 1,
+      "difficulty": 1,
+      "explanation": "La respuesta correcta es 'Júpiter' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué instrumento se utiliza comúnmente para observar cuerpos celestes lejanos como estrellas y galaxias?",
+      "options": [
+        "Microscopio",
+        "Telescopio",
+        "Espectrómetro",
+        "Barómetro"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Telescopio' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el valor del pH neutro en la escala química?",
+      "options": [
+        "0",
+        "7",
+        "14",
+        "5"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es '7' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué científico formuló las leyes del movimiento y la ley de la gravitación universal?",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler",
+        "Nikola Tesla"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Isaac Newton' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el hueso más largo y fuerte del cuerpo humano?",
+      "options": [
+        "Húmero",
+        "Tibia",
+        "Fémur",
+        "Radio"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Fémur' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué gas exhalamos los seres humanos al respirar en el proceso de intercambio gaseoso?",
+      "options": [
+        "Oxígeno",
+        "Dióxido de carbono",
+        "Monóxido de carbono",
+        "Hidrógeno"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Dióxido de carbono' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la molécula responsable de almacenar la información genética en los seres vivos (ADN)?",
+      "options": [
+        "Ácido desoxirribonucleico",
+        "Ácido ribonucleico",
+        "Proteína de membrana",
+        "ATP"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Ácido desoxirribonucleico' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué fenómeno físico explica por qué un objeto sumergido en agua experimenta un empuje hacia arriba?",
+      "options": [
+        "Efecto Doppler",
+        "Principio de Arquímedes",
+        "Ley de Ohm",
+        "Principio de Pascal"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Principio de Arquímedes' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del agua?",
+      "options": [
+        "CO2",
+        "H2O",
+        "O2",
+        "NaCl"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'H2O' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué capa de la atmósfera terrestre nos protege de la radiación ultravioleta dañina del Sol?",
+      "options": [
+        "Troposfera",
+        "Capa de ozono (estratosfera)",
+        "Mesosfera",
+        "Termosfera"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Capa de ozono (estratosfera)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién demostró mediante experimentos con planos inclinados y telescopio que la Tierra gira alrededor del Sol (defendiendo el heliocentrismo)?",
+      "options": [
+        "Ptolomeo",
+        "Galileo Galilei",
+        "Copérnico",
+        "Aristóteles"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Galileo Galilei' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la unidad del Sistema Internacional para medir la fuerza?",
+      "options": [
+        "Vatio",
+        "Joule",
+        "Newton",
+        "Pascal"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Newton' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué tipo de células sanguíneas son las encargadas de transportar oxígeno desde los pulmones a todo el cuerpo?",
+      "options": [
+        "Glóbulos blancos (leucocitos)",
+        "Glóbulos rojos (eritrocitos)",
+        "Plaquetas",
+        "Neuronas"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Glóbulos rojos (eritrocitos)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama el punto en el espacio con una gravedad tan intensa que ni siquiera la luz puede escapar?",
+      "options": [
+        "Supernova",
+        "Estrella de neutrones",
+        "Agujero negro",
+        "Púlsar"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Agujero negro' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el metal líquido a temperatura ambiente más conocido?",
+      "options": [
+        "Platino",
+        "Mercurio",
+        "Galio",
+        "Cobre"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Mercurio' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué botánico y monje austriaco es considerado el padre de la genética por sus experimentos con guisantes?",
+      "options": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Thomas Hunt Morgan",
+        "James Watson"
+      ],
+      "correct": 0,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Gregor Mendel' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la principal fuente de energía para el clima y la vida en la Tierra?",
+      "options": [
+        "El núcleo terrestre",
+        "La Luna",
+        "El Sol",
+        "Los océanos"
+      ],
+      "correct": 2,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'El Sol' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué instrumento mide la presión atmosférica?",
+      "options": [
+        "Termómetro",
+        "Barómetro",
+        "Higrómetro",
+        "Anemómetro"
+      ],
+      "correct": 1,
+      "difficulty": 2,
+      "explanation": "La respuesta correcta es 'Barómetro' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el elemento químico más abundante en la corteza terrestre?",
+      "options": [
+        "Silicio",
+        "Hierro",
+        "Oxígeno",
+        "Aluminio"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Oxígeno' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quiénes descubrieron la estructura en doble hélice del ADN en 1953 (junto con datos de Rosalind Franklin)?",
+      "options": [
+        "Watson y Crick",
+        "Einstein y Bohr",
+        "Darwin y Wallace",
+        "Curie y Becquerel"
+      ],
+      "correct": 0,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Watson y Crick' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué es la fotosíntesis en términos de productos liberados a la atmósfera?",
+      "options": [
+        "Absorbe oxígeno y libera dióxido de carbono",
+        "Absorbe dióxido de carbono y libera oxígeno",
+        "Libera nitrógeno puro",
+        "Consume agua y produce petróleo"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Absorbe dióxido de carbono y libera oxígeno' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la estrella más cercana a la Tierra?",
+      "options": [
+        "Próxima Centauri",
+        "Sirio",
+        "El Sol",
+        "Betelgeuse"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'El Sol' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué rama de la química estudia los compuestos que contienen carbono?",
+      "options": [
+        "Química inorgánica",
+        "Química orgánica",
+        "Química analítica",
+        "Fisicoquímica"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Química orgánica' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es la unidad de medida de la resistencia eléctrica en el Sistema Internacional?",
+      "options": [
+        "Voltio",
+        "Amperio",
+        "Ohmio",
+        "Vatio"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Ohmio' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué planeta del sistema solar gira 'acostado' sobre su costado con una inclinación extrema?",
+      "options": [
+        "Saturno",
+        "Urano",
+        "Neptuno",
+        "Marte"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Urano' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se denominan los animales que se alimentan tanto de plantas como de carne?",
+      "options": [
+        "Herbívoros",
+        "Carnívoros",
+        "Omnívoros",
+        "Detritívoros"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Omnívoros' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el gas noble más ligero y utilizado para inflar globos que flotan?",
+      "options": [
+        "Argón",
+        "Neón",
+        "Helio",
+        "Kriptón"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Helio' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Quién propuso el modelo atómico en el que los electrones orbitan alrededor del núcleo como los planetas alrededor del sol?",
+      "options": [
+        "J.J. Thomson",
+        "Ernest Rutherford (y Niels Bohr)",
+        "John Dalton",
+        "Max Planck"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Ernest Rutherford (y Niels Bohr)' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el órgano del cuerpo humano responsable de bombear la sangre hacia todo el sistema circulatorio?",
+      "options": [
+        "Los pulmones",
+        "El corazón",
+        "El hígado",
+        "Los riñones"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'El corazón' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué tipo de radiación electromagnética tiene la longitud de onda más corta y mayor energía?",
+      "options": [
+        "Ondas de radio",
+        "Luz visible",
+        "Rayos X",
+        "Rayos gamma"
+      ],
+      "correct": 3,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Rayos gamma' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el segundo elemento más abundante en el Sol y el universo?",
+      "options": [
+        "Hidrógeno",
+        "Helio",
+        "Carbono",
+        "Oxígeno"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Helio' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Qué científico británico escribió el bestseller de divulgación científica 'Breve historia del tiempo'?",
+      "options": [
+        "Carl Sagan",
+        "Stephen Hawking",
+        "Richard Feynman",
+        "Neil deGrasse Tyson"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Stephen Hawking' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cómo se llama la fuerza que atrae a dos cuerpos entre sí debido a sus masas?",
+      "options": [
+        "Fuerza centrífuga",
+        "Fuerza de fricción",
+        "Gravedad",
+        "Fuerza magnética"
+      ],
+      "correct": 2,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Gravedad' por definición y datos contrastados."
+    },
+    {
+      "question": "¿Cuál es el nombre del rover de la NASA que aterrizó con éxito en Marte en febrero de 2021 para buscar signos de vida pasada?",
+      "options": [
+        "Curiosity",
+        "Perseverance",
+        "Opportunity",
+        "Spirit"
+      ],
+      "correct": 1,
+      "difficulty": 3,
+      "explanation": "La respuesta correcta es 'Perseverance' por definición y datos contrastados."
+    }
+  ]
+}
